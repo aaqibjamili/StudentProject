@@ -14,6 +14,7 @@ public class Student
 {
     private String name;
     private String studentID;
+    private String program;
 
     /**
      * A constructor that takes in both parameters
