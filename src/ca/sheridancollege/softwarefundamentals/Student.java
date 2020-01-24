@@ -55,6 +55,7 @@ public class Student
     }
     
     /**
+    *  Line added here
      * a method that returns true if a student
      * studied and false otherwise.
      * @return whether or not the student studied
